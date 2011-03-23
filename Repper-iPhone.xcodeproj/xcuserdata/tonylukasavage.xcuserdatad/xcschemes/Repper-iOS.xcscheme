@@ -15,8 +15,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
                BuildableName = "Repper.app"
-               BlueprintName = "Repper-iOS"
-               ReferencedContainer = "container:Repper-iOS.xcodeproj">
+               BlueprintName = "Repper-iPhone"
+               ReferencedContainer = "container:Repper-iPhone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -42,8 +42,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "Repper.app"
-            BlueprintName = "Repper-iOS"
-            ReferencedContainer = "container:Repper-iOS.xcodeproj">
+            BlueprintName = "Repper-iPhone"
+            ReferencedContainer = "container:Repper-iPhone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -61,8 +61,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "Repper.app"
-            BlueprintName = "Repper-iOS"
-            ReferencedContainer = "container:Repper-iOS.xcodeproj">
+            BlueprintName = "Repper-iPhone"
+            ReferencedContainer = "container:Repper-iPhone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
