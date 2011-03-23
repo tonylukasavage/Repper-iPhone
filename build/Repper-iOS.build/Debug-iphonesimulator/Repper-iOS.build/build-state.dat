@@ -1,0 +1,991 @@
+TRepper-iOS
+v7
+r0
+t322420063.391430
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist" Repper_iOS-Info.plist
+cCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/MainWindow.xib"
+cCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.xib"
+cCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.xib"
+cCpResource build/Debug-iphonesimulator/Repper-iOS.app/fitness_background.jpg fitness_background.jpg
+cCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/SetTableViewCell.xib"
+cCpResource build/Debug-iphonesimulator/Repper-iOS.app/calculateButon.png calculateButon.png
+cProcessPCH /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch.gch Repper_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS" normal i386
+cGenerateDSYMFile "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM" "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS"
+cTouch "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.h
+c000000004C51A9DE00000000000000BA
+t1280420318
+s186
+i<Foundation/Foundation.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.m
+c000000004C51A9DA00000000000000A8
+t1280420314
+s168
+i"AppDataObject.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDelegateProtocol.h
+c000000004C51AE5400000000000000E7
+t1280421460
+s231
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.h
+c000000004D81004C00000000000001E3
+t1300299852
+s483
+i<Foundation/Foundation.h>
+i"AppDataObject.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.m
+c000000004D8103FA00000000000004BC
+t1300300794
+s1212
+i"ExampleAppDataObject.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.h
+c000000004D8106C300000000000005B0
+t1300301507
+s1456
+i<UIKit/UIKit.h>
+i"RepsViewController.h"
+i"WeightTextFieldDelegate.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m
+c000000004D82748F00000000000018B0
+t1300395151
+s6320
+i"MainViewController.h"
+i"WeightTextFieldDelegate.h"
+i<QuartzCore/QuartzCore.h>
+i"ExampleAppDataObject.h"
+i"AppDelegateProtocol.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.xib
+c000000004D8273CC000000000000AF22
+t1300394956
+s44834
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.h
+c000000004D82241E0000000000000169
+t1300374558
+s361
+i<Foundation/Foundation.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.m
+c000000004D82244400000000000000ED
+t1300374596
+s237
+i"RepperObject.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.h
+c000000004D80326E000000000000029E
+t1300247150
+s670
+i<UIKit/UIKit.h>
+i"AppDelegateProtocol.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.m
+c000000004D80F52C0000000000000B57
+t1300297004
+s2903
+i"Repper_iOSAppDelegate.h"
+i"AppDelegateProtocol.h"
+i"ExampleAppDataObject.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.h
+c000000004D80CE9200000000000001CD
+t1300287122
+s461
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.m
+c000000004D8246F40000000000001603
+t1300383476
+s5635
+i"RepsViewController.h"
+i"ExampleAppDataObject.h"
+i"AppDelegateProtocol.h"
+i"SetTableViewCell.h"
+i"RepperObject.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.xib
+c000000004D8243F00000000000004C97
+t1300382704
+s19607
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.h
+c000000004D821E6800000000000001DA
+t1300373096
+s474
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.m
+c000000004D821E7500000000000002F3
+t1300373109
+s755
+i"SetTableViewCell.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.h
+c000000004D7F9B750000000000000113
+t1300208501
+s275
+i<Foundation/Foundation.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.m
+c000000004D8108E90000000000000161
+t1300302057
+s353
+i"WeightTextFieldDelegate.h"
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/MainWindow.xib
+c000000004D7EB37C0000000000006B99
+t1300149116
+s27545
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/Repper_iOS_Prefix.pch
+c000000004D7EA98E00000000000000BD
+t1300146574
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/SetTableViewCell.xib
+c000000004D8243B900000000000053FE
+t1300382649
+s21502
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/blueButton.png
+c000000004D8249C400000000000005BC
+t1300384196
+s1468
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app
+t1300397440
+s408
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM
+t1300395157
+s102
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist
+t1300147515
+s603
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/MainViewController.nib
+t1300394970
+s3805
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/MainWindow.nib
+t1300149298
+s1552
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/PkgInfo
+t1300147516
+s8
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+t1300395156
+s53800
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/RepsViewController.nib
+t1300382709
+s1146
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/SetTableViewCell.nib
+t1300382654
+s1933
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/blueButton.png
+t1300388374
+s1468
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/calculateButon.png
+t1300397440
+s3861
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/fitness_background.jpg
+t1300150490
+s15950
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o
+t1300240940
+s5088
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o
+t1300300799
+s14900
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o
+t1300395156
+s79692
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper-iOS.LinkFileList
+c000000004D82265400000000000004FF
+t1300375124
+s1279
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o
+t1300375124
+s8080
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o
+t1300300219
+s55992
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o
+t1300383483
+s60784
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o
+t1300373357
+s41684
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o
+t1300302057
+s38536
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o
+t1300147521
+s6308
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/calculateButon.png
+c000000004D827D6A0000000000000F15
+t1300397418
+s3861
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/fitness_background.jpg
+c000000004D7D7E4C0000000000003E4E
+t1300069964
+s15950
+
+N/Users/tonylukasavage/Desktop/Repper-iOS/main.m
+c000000004D7EA98E0000000000000172
+t1300146574
+s370
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.h
+c000000004C51A9DE00000000000000BA
+t1280420318
+s186
+i<Foundation/Foundation.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m
+c000000004C51A9DA00000000000000A8
+t1280420314
+s168
+i"AppDataObject.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDelegateProtocol.h
+c000000004C51AE5400000000000000E7
+t1280421460
+s231
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.h
+c000000004D81004C00000000000001E3
+t1300299852
+s483
+i<Foundation/Foundation.h>
+i"AppDataObject.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m
+c000000004D8103FA00000000000004BC
+t1300300794
+s1212
+i"ExampleAppDataObject.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.h
+c000000004D8106C300000000000005B0
+t1300301507
+s1456
+i<UIKit/UIKit.h>
+i"RepsViewController.h"
+i"WeightTextFieldDelegate.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m
+c000000004D82748F00000000000018B0
+t1300395151
+s6320
+i"MainViewController.h"
+i"WeightTextFieldDelegate.h"
+i<QuartzCore/QuartzCore.h>
+i"ExampleAppDataObject.h"
+i"AppDelegateProtocol.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.xib
+c000000004D8273CC000000000000AF22
+t1300394956
+s44834
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.h
+c000000004D82241E0000000000000169
+t1300374558
+s361
+i<Foundation/Foundation.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m
+c000000004D82244400000000000000ED
+t1300374596
+s237
+i"RepperObject.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.h
+c000000004D80326E000000000000029E
+t1300247150
+s670
+i<UIKit/UIKit.h>
+i"AppDelegateProtocol.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m
+c000000004D80F52C0000000000000B57
+t1300297004
+s2903
+i"Repper_iOSAppDelegate.h"
+i"AppDelegateProtocol.h"
+i"ExampleAppDataObject.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.h
+c000000004D80CE9200000000000001CD
+t1300287122
+s461
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m
+c000000004D8246F40000000000001603
+t1300383476
+s5635
+i"RepsViewController.h"
+i"ExampleAppDataObject.h"
+i"AppDelegateProtocol.h"
+i"SetTableViewCell.h"
+i"RepperObject.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.xib
+c000000004D8243F00000000000004C97
+t1300382704
+s19607
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.h
+c000000004D821E6800000000000001DA
+t1300373096
+s474
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m
+c000000004D821E7500000000000002F3
+t1300373109
+s755
+i"SetTableViewCell.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.h
+c000000004D7F9B750000000000000113
+t1300208501
+s275
+i<Foundation/Foundation.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m
+c000000004D8108E90000000000000161
+t1300302057
+s353
+i"WeightTextFieldDelegate.h"
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/MainWindow.xib
+c000000004D7EB37C0000000000006B99
+t1300149116
+s27545
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Repper_iOS_Prefix.pch
+c000000004D7EA98E00000000000000BD
+t1300146574
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/SetTableViewCell.xib
+c000000004D8243B900000000000053FE
+t1300382649
+s21502
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app
+t1300727263
+s408
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM
+t1300642071
+s102
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist
+t1300727263
+s585
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/MainViewController.nib
+t1300394970
+s3805
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/MainWindow.nib
+t1300149298
+s1552
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/PkgInfo
+t1300727263
+s8
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+t1300642070
+s54072
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/RepsViewController.nib
+t1300382709
+s1146
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/SetTableViewCell.nib
+t1300382654
+s1933
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/calculateButon.png
+t1300642396
+s3869
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/fitness_background.jpg
+t1300150490
+s15950
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o
+t1300642070
+s5120
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o
+t1300642070
+s14932
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o
+t1300642070
+s79720
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper-iOS.LinkFileList
+c000000004D8639140000000000000586
+t1300642068
+s1414
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o
+t1300642070
+s8108
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o
+t1300642070
+s56024
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o
+t1300642070
+s60816
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o
+t1300642070
+s41712
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o
+t1300642070
+s38568
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o
+t1300642070
+s6336
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/calculateButon.png
+c000000004D863A490000000000000F1D
+t1300642377
+s3869
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/fitness_background.jpg
+c000000004D7D7E4C0000000000003E4E
+t1300069964
+s15950
+
+N/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m
+c000000004D7EA98E0000000000000172
+t1300146574
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch.gch
+t1300642069
+s15453392
+
+N/var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch.gch
+t1300147520
+s15453392
+
+NRepper_iOS-Info.plist
+c000000004D8785D6000000000000037A
+t1300727254
+s890
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322420063#322420063#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.105046
+e322334870.409116
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m322334870#322334870#0(0"0(0#0#79"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m8601650080#2209"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/AppDataObject.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321933740.533082
+e321933740.567676
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.m321933740#321933740#0(0"0(0#0#64"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.m8612622976#2022"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/AppDataObject.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/AppDataObject.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.106034
+e322334870.409356
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m322334870#322334870#0(0"0(0#0#86"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m8590343648#2223"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/ExampleAppDataObject.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321993599.808046
+e321993599.907385
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.m321993599#321993599#0(0"0(0#0#71"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.m8614582944#2036"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/ExampleAppDataObject.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/ExampleAppDataObject.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.101380
+e322334870.413960
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires method '-repTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires the method 'setRepTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires method '-unitControl' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires the method 'setUnitControl:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@92"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m322334870#322334870#0(938"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires method '-repTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires the method 'setRepTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires method '-unitControl' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires the method 'setUnitControl:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@132"Property 'repTextField' requires method '-repTextField' to be defined - use @synthesize, @dynamic or provide a method implementation322334870#0#232#0(6@84"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(22@139"Property 'repTextField' requires the method 'setRepTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation322334870#232#239#0(6@84"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(22@130"Property 'unitControl' requires method '-unitControl' to be defined - use @synthesize, @dynamic or provide a method implementation322334870#471#230#0(6@84"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(22@137"Property 'unitControl' requires the method 'setUnitControl:' to be defined - use @synthesize, @dynamic or provide a method implementation322334870#701#237#0(6@84"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(0#0#84"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m8605770816#2219"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322087956.826353
+e322087956.950399
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires method '-repTextField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires the method 'setRepTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires method '-unitControl' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires the method 'setUnitControl:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@77"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m322087956#322087956#0(878"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires method '-repTextField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'repTextField' requires the method 'setRepTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires method '-unitControl' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m:207: warning: property 'unitControl' requires the method 'setUnitControl:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@132"Property 'repTextField' requires method '-repTextField' to be defined - use @synthesize, @dynamic or provide a method implementation322087956#0#217#0(6@69"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(22@139"Property 'repTextField' requires the method 'setRepTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation322087956#217#224#0(6@69"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(22@130"Property 'unitControl' requires method '-unitControl' to be defined - use @synthesize, @dynamic or provide a method implementation322087956#441#215#0(6@69"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(22@137"Property 'unitControl' requires the method 'setUnitControl:' to be defined - use @synthesize, @dynamic or provide a method implementation322087956#656#222#0(6@69"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m322087951#207#0#207#0#0"0(0#0#69"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m8612481440#2032"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.407391
+e322334870.445229
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m322334870#322334870#0(0"0(0#0#78"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m3414973617650413056#2207"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepperObject.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322067924.579841
+e322067924.660541
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.m322067924#322067924#0(0"0(0#0#63"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.m8614138528#2020"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepperObject.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepperObject.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.100205
+e322334870.412370
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m322334870#322334870#0(0"0(0#0#87"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m8606034176#2225"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/Repper_iOSAppDelegate.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321993019.740325
+e321993019.892076
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.m321993019#321993019#0(0"0(0#0#72"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.m8614384704#2038"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/Repper_iOSAppDelegate.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper_iOSAppDelegate.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.102768
+e322334870.410469
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m322334870#322334870#0(0"0(0#0#84"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m8602825440#2219"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322076283.678855
+e322076283.786202
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.m322076283#322076283#0(0"0(0#0#69"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.m8612665920#2032"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/RepsViewController.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.107033
+e322334870.410070
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m322334870#322334870#0(0"0(0#0#82"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m8604536672#2215"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/SetTableViewCell.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322066157.137840
+e322066157.232878
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.m322066157#322066157#0(0"0(0#0#67"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.m8612519008#2028"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/SetTableViewCell.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/SetTableViewCell.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.103976
+e322334870.408868
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m322334870#322334870#0(0"0(0#0#89"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m8602933440#2229"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/WeightTextFieldDelegate.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o /Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321994857.784758
+e321994857.883523
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.m321994857#321994857#0(0"0(0#0#74"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.m8616191488#2042"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/Classes/WeightTextFieldDelegate.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/WeightTextFieldDelegate.o0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334870.098432
+e322334870.407138
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m322334870#322334870#0(0"0(0#0#62"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m8602507840#2183"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/main.m" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o /Users/tonylukasavage/Desktop/Repper-iOS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321840321.073597
+e321840321.454307
+r1
+xCompileC
+xbuild/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o
+x/Users/tonylukasavage/Desktop/Repper-iOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/tonylukasavage/Desktop/Repper-iOS/main.m321840321#321840321#0(0"0(0#0#47"/Users/tonylukasavage/Desktop/Repper-iOS/main.m8618554784#1996"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -include /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch -c /Users/tonylukasavage/Desktop/Repper-iOS/main.m -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/MainViewController.xib"
+r0
+
+CCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Classes/RepsViewController.xib"
+r0
+
+CCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/SetTableViewCell.xib"
+r0
+
+CCompileXIB /Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.xib
+s322087770.077839
+e322087770.396018
+r1
+xCompileXIB
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.xib
+lSLF07#2@41"CompileXIB Classes/MainViewController.xib322087770#322087770#0(0"0(0#0#71"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.xib8612977120#603"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/MainViewController.nib /Users/tonylukasavage/Desktop/Repper-iOS/Classes/MainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.xib
+s322075509.496481
+e322075509.828856
+r1
+xCompileXIB
+x/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.xib
+lSLF07#2@41"CompileXIB Classes/RepsViewController.xib322075509#322075509#0(0"0(0#0#71"/Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.xib8613240096#603"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/RepsViewController.nib /Users/tonylukasavage/Desktop/Repper-iOS/Classes/RepsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tonylukasavage/Desktop/Repper-iOS/MainWindow.xib
+s321842097.821133
+e321842098.158492
+r1
+xCompileXIB
+x/Users/tonylukasavage/Desktop/Repper-iOS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321842097#321842098#0(0"0(0#0#55"/Users/tonylukasavage/Desktop/Repper-iOS/MainWindow.xib8618766048#579"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/MainWindow.nib /Users/tonylukasavage/Desktop/Repper-iOS/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tonylukasavage/Desktop/Repper-iOS/SetTableViewCell.xib
+s322075454.329183
+e322075454.575479
+r1
+xCompileXIB
+x/Users/tonylukasavage/Desktop/Repper-iOS/SetTableViewCell.xib
+lSLF07#2@31"CompileXIB SetTableViewCell.xib322075454#322075454#0(0"0(0#0#61"/Users/tonylukasavage/Desktop/Repper-iOS/SetTableViewCell.xib8613678048#591"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/SetTableViewCell.nib /Users/tonylukasavage/Desktop/Repper-iOS/SetTableViewCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Repper-iOS.app/blueButton.png blueButton.png
+s322081174.705203
+e322081174.742916
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Repper-iOS.app/blueButton.png
+xblueButton.png
+lSLF07#2@19"Copy blueButton.png322081174#322081174#0(0"0(0#0#55"/Users/tonylukasavage/Desktop/Repper-iOS/blueButton.png8602764832#481"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tonylukasavage/Desktop/Repper-iOS/blueButton.png /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app0#
+
+CCpResource build/Debug-iphonesimulator/Repper-iOS.app/calculateButon.png calculateButon.png
+s322335196.831700
+e322335196.880593
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Repper-iOS.app/calculateButon.png
+xcalculateButon.png
+lSLF07#2@23"Copy calculateButon.png322335196#322335196#0(0"0(0#0#74"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/calculateButon.png8606565056#536"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/calculateButon.png" "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app"0#
+
+CCpResource build/Debug-iphonesimulator/Repper-iOS.app/fitness_background.jpg fitness_background.jpg
+s321843290.564156
+e321843290.598343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Repper-iOS.app/fitness_background.jpg
+xfitness_background.jpg
+lSLF07#2@27"Copy fitness_background.jpg321843290#321843290#0(0"0(0#0#63"/Users/tonylukasavage/Desktop/Repper-iOS/fitness_background.jpg8620012384#489"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tonylukasavage/Desktop/Repper-iOS/fitness_background.jpg /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app0#
+
+CGenerateDSYMFile "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM" "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS"
+s322334870.940660
+e322334871.098950
+r1
+xGenerateDSYMFile
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Repper-iOS.app.dSYM build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS322334870#322334871#0(0"0(0#0#109"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS8602271680#449"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS" -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM"0#
+
+CGenerateDSYMFile /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+s322087956.972207
+e322087957.020387
+r1
+xGenerateDSYMFile
+x/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM
+x/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Repper-iOS.app.dSYM build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS322087956#322087957#0(0"0(0#0#94"/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS8599272288#398"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app.dSYM0#
+
+CLd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS" normal i386
+s322334870.445310
+e322334870.940559
+r1
+xLd
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+xnormal
+xi386
+lSLF07#2@114"Link /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS322334870#322334870#0(0"0(0#0#0"8604439104#1032"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" -filelist "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper-iOS.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS"0#
+
+CLd /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS normal i386
+s322087956.950474
+e322087956.972125
+r1
+xLd
+x/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS
+xnormal
+xi386
+lSLF07#2@99"Link /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS322087956#322087956#0(0"0(0#0#0"8611927232#947"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -filelist /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Objects-normal/i386/Repper-iOS.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Repper-iOS0#
+
+CProcessInfoPlistFile "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist" Repper_iOS-Info.plist
+s322420063.361789
+e322420063.387876
+r1
+xProcessInfoPlistFile
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist
+xRepper_iOS-Info.plist
+lSLF07#2@29"Process Repper_iOS-Info.plist322420063#322420063#0(0"0(0#0#77"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Repper_iOS-Info.plist7090148158703691776#545"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Repper_iOS-Info.plist -genpkginfo "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist Repper_iOS-Info.plist
+s321840315.887390
+e321840316.014324
+r1
+xProcessInfoPlistFile
+x/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist
+xRepper_iOS-Info.plist
+lSLF07#2@29"Process Repper_iOS-Info.plist321840315#321840316#0(0"0(0#0#62"/Users/tonylukasavage/Desktop/Repper-iOS/Repper_iOS-Info.plist32933040433463412#494"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Repper_iOS-Info.plist -genpkginfo /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app/Info.plist0#
+
+CProcessPCH /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch.gch Repper_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322334868.854474
+e322334870.098209
+r1
+xProcessPCH
+x/var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch.gch
+xRepper_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Repper_iOS_Prefix.pch322334868#322334870#0(0"0(0#0#77"/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Repper_iOS_Prefix.pch7449907500141604864#2053"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap" -iquote "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap" "-F/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/include" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386" "-I/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources" -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/Repper_iOS_Prefix.pch" -o /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-eoukfccgjwtfpybblomxmjedkxay/Repper_iOS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch.gch Repper_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321840318.109265
+e321840321.073429
+r1
+xProcessPCH
+x/var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch.gch
+xRepper_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Repper_iOS_Prefix.pch321840318#321840321#0(0"0(0#0#62"/Users/tonylukasavage/Desktop/Repper-iOS/Repper_iOS_Prefix.pch8603618080#1883"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-generated-files.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-own-target-headers.hmap -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-all-target-headers.hmap -iquote /Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/Repper-iOS-project-headers.hmap -F/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/include -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources/i386 -I/Users/tonylukasavage/Desktop/Repper-iOS/build/Repper-iOS.build/Debug-iphonesimulator/Repper-iOS.build/DerivedSources -c /Users/tonylukasavage/Desktop/Repper-iOS/Repper_iOS_Prefix.pch -o /var/folders/if/iflhDcYEGXWy0UKPcR7IBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Repper_iOS_Prefix-gctwyusfuzjxilcpilboxykehdjw/Repper_iOS_Prefix.pch.gch0#
+
+CTouch "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app"
+s322420063.389153
+e322420063.391389
+r1
+xTouch
+x/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app
+lSLF07#2@104"Touch /Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app322420063#322420063#0(0"0(0#0#0"8601967104#319"    cd "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/tonylukasavage/Mobile Development/iOS/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app"0#
+
+CTouch /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app
+s322090240.011153
+e322090240.013052
+r1
+xTouch
+x/Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app
+lSLF07#2@89"Touch /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app322090240#322090240#0(0"0(0#0#0"8613571168#285"    cd /Users/tonylukasavage/Desktop/Repper-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tonylukasavage/Desktop/Repper-iOS/build/Debug-iphonesimulator/Repper-iOS.app0#
+
